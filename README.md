@@ -1,7 +1,7 @@
 # Cartola 2K25
 
 ### Tema do Jogo:
-**[Campo de futebol]**
+**[Pular obstáculo]**
 
 ### Área do Projeto:
 **[Técnico]**
@@ -14,10 +14,10 @@
 | Enrique rodrigues    |[github.com/Enriquerodrigues09](https://github.com/Enriquerodrigues09)           |[enriqueboleiro@gmail.com] |
 
 # Descrição Resumida do Projeto:
-[Um jogo jogo de futebol que busca trazer entretenimento do público]
+[Neymar pulando bruna marquezine.]
 
 # Como Jogar:
-[Use a setinha para o jogador desviar e espaço para pular.]
+[Use espaço para pular e desviar dos objetos.]
 
 ## Ferramentas Utilizadas:
 - **Linguagens**: [HTML, CSS, JavaScript]
