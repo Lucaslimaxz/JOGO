@@ -1,7 +1,7 @@
 # Cartola 2K25
 
 ### Tema do Jogo:
-**[Pular obstáculo]**
+**[Ultrapassando os obstáculos.]**
 
 ### Área do Projeto:
 **[Técnico]**
@@ -14,8 +14,10 @@
 | Enrique rodrigues    |[github.com/Enriquerodrigues09](https://github.com/Enriquerodrigues09)           |[enriqueboleiro@gmail.com] |
 
 # Descrição Resumida do Projeto:
-[Neymar pulando bruna marquezine.]
+[Pegamos refêrencia do jogo do dinossauro do google em que substituímos o Dinossauro pela cabeça do Neymar pulando pelo obstáculo que seria a cabeça da Bruna Marquezine]
 
+# Público alvo:
+[Todos que gostem do Neymar e jogam o jogo do Dinossauro.]
 # Como Jogar:
 [Use espaço para pular e desviar dos objetos.]
 
@@ -35,7 +37,7 @@ cd nome-do-jogo
 [Tela de vitória.]
 
 # Melhorias futuras:
-[]
+[Melhorar o Design, Pontuação e a velocidade.]
 
 ## Histórico do Projeto
 | Fase               | Data       |  Descrição                                   |
