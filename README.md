@@ -48,3 +48,6 @@ cd nome-do-jogo
 | Finalização        | DD/MM/AAAA | Ajustes finais e testes                      |
 
 ## Prints das Telas do Projeto
+<img width="926" alt="inicial" src="https://github.com/user-attachments/assets/5ed190b6-3ec4-4127-8de0-0b8ba3af92e2" />
+<img width="923" alt="jogo2" src="https://github.com/user-attachments/assets/f2a96c20-ed5a-40df-a467-284818821813" />
+
